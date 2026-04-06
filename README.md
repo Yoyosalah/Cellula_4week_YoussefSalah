@@ -41,7 +41,7 @@ An advanced, locally-hosted AI coding assistant built with LangChain, ChromaDB, 
     ├── memory.py           # Session history and message trimming logic
     ├── rag_chains.py       # Generate/Explain LCEL pipelines & retrievers
     ├── router.py           # Intent classification chain
-    ├── self_learning.py    # Logic for dynamically updating the vector store
+    ├── learning.py    # Logic for dynamically updating the vector store
     ├── splitter.py         # Text splitting for new document ingestion
     ├── system_prompt.py    # Centralized LLM system instructions
     └── vectorstore.py      # ChromaDB initialization and loading
