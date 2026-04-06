@@ -1,0 +1,24 @@
+# UI Framework
+gradio==6.8.0
+
+# Environment Variables
+python-dotenv==1.2.1
+
+# LangChain Core & Components
+langchain==1.2.10
+langchain-core==1.2.16
+langchain-community==0.4.1
+langchain-text-splitters==1.1.1
+
+# LLM & API Integrations
+langchain-openai==1.1.10
+openai==2.24.0
+
+# Vector Database
+chromadb==1.5.1
+langchain-chroma==1.1.0
+
+# Embeddings & Datasets
+langchain-huggingface==1.2.0
+sentence-transformers==5.2.3
+datasets==4.5.0
