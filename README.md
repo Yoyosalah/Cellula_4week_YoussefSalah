@@ -2,8 +2,7 @@
 
 An advanced, locally-hosted AI coding assistant built with LangChain, ChromaDB, and Gradio. This application uses Retrieval-Augmented Generation (RAG) to write, explain, and learn Python code, featuring a dynamic conversational memory and a robust modular architecture.
 
-**Author:** Youssef Mohamed Salah 
-**Program:** Mechatronics & Robotics Engineering
+**Author:** Youssef Mohamed Salah
 
 ---
 
